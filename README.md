@@ -8,7 +8,7 @@
   <br />
 
   <h2 align="center">Nutrition Label</h2>
-In this project, I have used typography to build a nutrition label webpage, <br />The project is built using HTML5 & CSS3.
+In this project, I have used typography to build a nutrition label webpage, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/nutrition-label/"><strong>➥ Live Demo</strong></a>
 
